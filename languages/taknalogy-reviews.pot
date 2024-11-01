@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taknalogy Reviews\n"
+"POT-Creation-Date: 2019-10-05 15:50-0600\n"
+"PO-Revision-Date: 2019-10-05 15:57-0600\n"
+"Last-Translator: \n"
+"Language-Team: Rab Nawaz rnawaz02@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+
+#: classes/class-taknalogy-reviews-tab.php:109
+msgid "Tak Reviews"
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:122
+msgid "Select Supplier"
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:123
+msgid "Product Supplier"
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:126
+msgid "AliExpress"
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:132
+msgid "Product Address"
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:136
+msgid "Copy and paste product web address."
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:140
+msgid "Enable Tak Reviews"
+msgstr ""
+
+#: classes/class-taknalogy-reviews-tab.php:144
+msgid ""
+"Please select checkbox to replace default reviews by Tak Reviews for this "
+"product."
+msgstr ""
+
+#: taknalogy-reviews.php:181 taknalogy-reviews.php:191
+msgid "Cheatin&#8217; huh?"
+msgstr ""
